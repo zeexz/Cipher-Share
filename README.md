@@ -1,6 +1,6 @@
 # CipherShare
 
-**CipherShare** is a secure, open-source "burn-after-reading" secret sharing application. It allows you to share sensitive information (like passwords, API keys, or private messages) securely via a link that self-destructs after being viewed once.
+**CipherShare** is a secure, open-source "burn after reading" secret sharing application. It allows you to share sensitive information (like passwords, API keys, or private messages) securely via a link that self-destructs after being viewed once.
 
 <img width="1919" height="905" alt="Screenshot 2026-01-11 091425" src="https://github.com/user-attachments/assets/fff40c57-fa19-4ff6-97d5-99a8db6a0c84" />
 
@@ -29,7 +29,7 @@
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/cipher-share-api.git
+    git clone https://github.com/yourusername/cipher share.git
     cd cipher-share-api
     ```
 
