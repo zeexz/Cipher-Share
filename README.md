@@ -29,7 +29,7 @@
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/cipher share.git
+    git clone https://github.com/yourusername/Cipher-Share.git
     cd cipher-share-api
     ```
 
