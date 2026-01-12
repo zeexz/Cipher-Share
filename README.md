@@ -2,7 +2,8 @@
 
 **CipherShare** is a secure, open-source "burn-after-reading" secret sharing application. It allows you to share sensitive information (like passwords, API keys, or private messages) securely via a link that self-destructs after being viewed once.
 
-c:\Users\prabh\OneDrive\사진\Screenshots\Screenshot 2026-01-11 091425.png
+<img width="1919" height="905" alt="Screenshot 2026-01-11 091425" src="https://github.com/user-attachments/assets/e5ed52d7-169c-4293-bccc-f0da40afca25" />
+
 
 ## Featuresg
 
@@ -68,3 +69,4 @@ c:\Users\prabh\OneDrive\사진\Screenshots\Screenshot 2026-01-11 091425.png
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
